@@ -1,0 +1,100 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: red;
+    font-weight: normal;
+}
+p{
+    font-size: 14px;
+}
+.google_pay{
+    color: blue;
+    background: royalblue;
+}
+.apple_pay{
+    color: green;
+    background: yellow;
+}
+span{
+    text-transform: uppercase;
+}
+.redmi_img{
+    position: relative;
+    margin: auto;
+    right: 550px;    
+}
+.redmi{
+    position: relative;
+    margin: auto;
+    left: 700px;    
+}
+.redmi_e_help{
+    position: relative;
+    margin: auto;
+    left: 700px;  
+    bottom: 500px;  
+}
+.redmi_settings{
+    position: absolute;
+    border: 2px solid black;    
+    width: 600px;
+    height: 600px;    
+    bottom: 230px;
+    left: 600px;
+}
+input{
+    width: 45px;
+    height: 45px;
+}
+.box_params{
+    width: 45px;
+    height: 45px;
+}
+.warranty_extension_service{
+    position: absolute;
+    left: 150px;
+}
+.sales{
+    position: absolute;
+    left: 150px;
+    top: 350px;
+    left: 0;
+}
+.get1{
+    position: absolute;
+    left: 150px;
+    top: 370px;
+    left: 500px;
+}
+.get2{
+    position: absolute;
+    left: 150px;
+    top: 370px;
+    left: 300px;
+}
+.get3{
+    position: absolute;
+    left: 150px;
+    top: 370px;
+    left: 100px;
+}
+.get4{
+    position: absolute;
+    left: 150px;
+    top: 280px;
+    left: 0px;
+}
+.direction{
+    position: relative;
+    border: 2px solid black;
+}
+.direction_text{
+    position: relative;
+    left: 150px;
+}
+.prize{
+    position: absolute;
+    margin: auto;
+    left: 50px
+}
